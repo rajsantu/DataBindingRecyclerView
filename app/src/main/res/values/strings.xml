@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBindingRecyclerView</string>
+    <string name="fab">Fab</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+</resources>
